@@ -46,3 +46,23 @@ A star-schema Power BI data model and dashboard suite built on a healthcare enco
 `Power BI` · `Power Query (M)` · `DAX` · `Star Schema Design` · `Data Profiling` · `Data Visualization`
 
 ## Repository contents
+
+```
+├── screenshots/ # Data model diagram + dashboard exports
+├── docs/
+│ ├── Project_Report.pdf # Full written report (ETL, model, DAX, insights)
+│ └── Video_Presentation_Script.md
+└── README.md
+
+```
+*Note: the `.pbix` file is not included in this repository, as it contains coursework data provided under a course license.*
+
+## About the Author
+
+**Jose Alberto Martinez Morales**
+
+Master's student in Data Analytics at the University of Niagara Falls, and holder of a Master's degree in Mathematics from UNAM (Universidad Nacional Autónoma de México). Passionate about applying analytical and statistical thinking to real-world data problems, with a growing focus on business intelligence and healthcare analytics.
+
+🔗 [LinkedIn](https://www.linkedin.com/in/josemartinez88/)
+
+**Beyond data:** science fiction, Vietnamese culture, video games, dance machines, learning French, and following scientific topics in AI, mathematics, statistics, and physics/cosmology.
