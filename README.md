@@ -28,7 +28,7 @@ A star-schema Power BI data model and dashboard suite built on a healthcare enco
 
 ## Data model
 
-![Star schema data model](screenshots/Start-Schema-Data-Model.png)
+![Star schema data model](screenshots/Start Schema Data Model.png)
 
 ## Report pages
 
