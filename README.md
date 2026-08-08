@@ -28,18 +28,18 @@ A star-schema Power BI data model and dashboard suite built on a healthcare enco
 
 ## Data model
 
-![Star schema data model](screenshots/star-schema-diagram.png)
+![Star schema data model](screenshots/Start Schema Data Model.png)
 
 ## Report pages
 
 **Financial & Operational Overview**
-![Financial overview dashboard](screenshots/01-financial-overview.png)
+![Financial overview dashboard](screenshots/Financial Overview Dashboard.png)
 
 **Patient Demographics & Diagnosis Patterns**
-![Patient demographics dashboard](screenshots/02-patient-demographics.png)
+![Patient demographics dashboard](screenshots/Patient Demographics Dashboard.png)
 
 **Readmissions & Quality Insights**
-![Readmissions dashboard](screenshots/03-readmissions-quality.png)
+![Readmissions dashboard](screenshots/Readmission Dashboard.png)
 
 ## Tools & techniques
 
